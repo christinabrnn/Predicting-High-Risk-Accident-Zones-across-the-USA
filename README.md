@@ -1,2 +1,3 @@
 # Predicting-High-Risk-Accident-Zones-across-the-USA
-Supervised Machine Learning
+
+The increasing rate of car accidents in the United States poses a critical threat to public safety, leading to a tragic loss of lives, countless injuries, and substantial economic costs. Despite various safety initiatives, the persistence of traffic accidents underscores the need for a deeper understanding of the factors that influence their severity. This analysis focuses on predicting accident severity and examining the role of high-risk zones and key patterns, such as weather conditions and time of day, in shaping these outcomes. By uncovering these critical insights, the findings aim to support the development of more effective policies, optimize resource allocation, and drive meaningful progress in reducing accident severity and improving traffic safety across the nation.
